@@ -1,3 +1,2 @@
 # Web_App
-Aplicativos web
-https://share.streamlit.io/vitorbeltrao/web_app/main/APPQDOIS.py
+Repository created in order to show the deploy of machine learning models.
